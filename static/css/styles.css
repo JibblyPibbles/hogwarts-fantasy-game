@@ -1,0 +1,21 @@
+.container-fluid {
+    margin: 2% 0%;
+    padding: 3% 10%;
+    background-color: #884A39;
+}
+
+.body_bg {
+    background-color: #C38154;
+}
+
+.title_color {
+    color: #FFF;
+}
+
+.title_font {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.body_font {
+    font-family: 'Ovo', serif;
+}
